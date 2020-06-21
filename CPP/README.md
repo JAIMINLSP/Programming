@@ -1,2 +1,0 @@
-# C++ Projects
-Contained here will be Projects in C++ dealing more with computational/algorithmic efficiency as well as the creation of programs that are "closer to the metal" such as filesystems or robotics (not implying these such endeavours have been explored here).
