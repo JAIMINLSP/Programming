@@ -1,4 +1,4 @@
-%% function to model the deflection of a cantilever beam from the: 
+%% function to model the deflection of a cantilever beam from:
 % 1) The points along the beam as an array "x"
 % 2) The Second moment of area of the cross section of the beam "I"
 % 3) Young's modulus of the material "E"
