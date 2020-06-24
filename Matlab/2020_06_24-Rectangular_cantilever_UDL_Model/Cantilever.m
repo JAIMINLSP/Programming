@@ -27,4 +27,3 @@ title('Deflection of a rectangular cross section cantilever beam under UDL');
 legend('Loaded', 'Unloaded');
 
 %% JLSP
-
